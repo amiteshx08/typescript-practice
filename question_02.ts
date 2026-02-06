@@ -1,4 +1,4 @@
-// Leetcode two sum
+// two sum
 
 function twoSum(arr: number[], target: number): boolean{
     for(let i = 0; i < arr.length; i++){

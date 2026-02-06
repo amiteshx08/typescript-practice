@@ -1,4 +1,4 @@
-// Namaste Dev sum of all numbers in an array
+// sum of all numbers in an array
 
 function sumArray(arr: number[]) {
     function helper(i: number) {
