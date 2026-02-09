@@ -1,1 +1,2 @@
-#This repo contains all the solutions of the questions I solved using Typescript
+# Typescript solutions
+- This repo contains all the questions i practiced in Typescript.
